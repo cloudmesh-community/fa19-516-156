@@ -5,9 +5,11 @@ The Facebook/Fortworth Data center is mainly using Wind energy ( details can be 
 Here is my finding so far from Facebook sustainibility report, Ref sustainibility.fb.com / DOWNLOAD OUR ENERGY, GHG, AND WATER DATA 
 
 
-Facebook Datacenter, Fort worth, TX
-Established 2015-16 
-Electricity Use (2018 yearly)  : 461,000 MWh 
+Facebook Datacenter, Fort worth, TX .
+Established 2015-16.
+
+Electricity Use (2018 yearly)  : 461,000 MWh .
+
 Operational Greenhouse Gas Emissions      : 1,000
 (market-based Scope 1 & 2 metric tons CO2e) 
 
@@ -62,3 +64,21 @@ RTI study :
 <https://www.rti.org/sites/default/files/facebook_data_centers_2018.pdf?fbclid=IwAR2SyuzMv-IRPq7kYjFPf7LNdRySMZS6oJNpRPdUHLow0YR0YI5bW0vI4HI>
 
 ## E.Datacenter.8: Major Data Center Outage
+
+Delta Data Center Outage
+
+I have did my research on internet and compared couple Data center outages, found Delta airline Data center outage is significant because it made direct impact on daily users life as people lost their flight connections and other plans about work and trips are getting delayed. In this Data Center outage more than 1000 flights got cancelled and as per study by the Ponemon Institute the "average cost of a single data center outage today is about $730,000" in 2016 .Ref, Datacenterknowledge.com
+
+"The Delta Airlines data center outage that grounded about 2,000 flights over the span of three days in August cost the company $150 million, the airline’s representatives told the audience of a transportation industry conference in Boston Wednesday.
+The number is extraordinarily high, illustrating that major airlines have a lot more at stake when designing and managing critical infrastructure than most other data center operators." Ref, Datacenterknowledge
+
+Another details reported provide by five9sdigital as
+"Delta Air Lines says the total bill for its devastating computer outage will come to $150 million.
+The problem occurred when the company lost power at its data center in Atlanta early on the morning of Aug. 8, causing computers needed to book in passengers and fly jets to be down for nearly five hours.
+The airline eventually canceled about 1,000 flights on the day of the outage and ground an additional 1,000 flights over the following two days. It also agreed to give affected customers refunds and vouchers for future travel.
+The cost of the outage was disclosed in a presentation Delta made to investors Wednesday. The losses came out of pre-tax profits, but the airline did not provide a break down of the various costs." Ref five9sdigital.com
+
+
+References: 
+<https://www.datacenterknowledge.com>
+<https://five9sdigital.com/knowledge/delta-airlines-our-5-hour-data-center-outage-cost-us-usd150m/>
