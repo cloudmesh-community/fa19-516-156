@@ -1,6 +1,7 @@
 # Datacenter fa19-516-156
 
 ## E.Datacenter.2.b - Cost of Data Center 
+
 The Facebook/Fortworth Data center is mainly using Wind energy ( details can be find in .5 section below) and I could find ceratain data from usage of 2018 yearly report from Facebook page and not able to determine all the facts at this point from this center. Also I have reached Facebook/Datacenter through their facebook page and hope they may give some specifics within in couple days.
 Here is my finding so far from Facebook sustainibility report, Ref sustainibility.fb.com / DOWNLOAD OUR ENERGY, GHG, AND WATER DATA 
 
