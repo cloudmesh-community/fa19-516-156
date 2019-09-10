@@ -55,13 +55,13 @@ Also cosidering community contribution as from Facebook data center hom page "Fa
 
 Reference:
 Greentechmedia:
-< https://www.greentechmedia.com/articles/read/facebook-signs-200mw-wind-deal-with-apex-clean-energy-in-texas?fbclid=IwAR20r9OW4zbB0npewQ3Hx687CWq_mj8DRRc810BU2MghEZBCzQpltlnQ39Y#gs.0nrp50 >
+<https://www.greentechmedia.com/articles/read/facebook-signs-200mw-wind-deal-with-apex-clean-energy-in-texas?fbclid=IwAR20r9OW4zbB0npewQ3Hx687CWq_mj8DRRc810BU2MghEZBCzQpltlnQ39Y#gs.0nrp50 >
 
 Facebook/Fortworth/Datcenter:
 <https://www.facebook.com/FortWorthDataCenter/>
 
 Facebook/Datcenter/notes :
-< https://www.facebook.com/notes/fort-worth-data-center/2019-facebook-fort-worth-community-action-grant-application-is-now-available/1980545985372461/ >
+<https://www.facebook.com/notes/fort-worth-data-center/2019-facebook-fort-worth-community-action-grant-application-is-now-available/1980545985372461/ >
 
 RTI study :
 <https://www.rti.org/sites/default/files/facebook_data_centers_2018.pdf?fbclid=IwAR2SyuzMv-IRPq7kYjFPf7LNdRySMZS6oJNpRPdUHLow0YR0YI5bW0vI4HI>
