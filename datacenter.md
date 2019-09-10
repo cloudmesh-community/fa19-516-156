@@ -1,5 +1,7 @@
 # Datacenter fa19-516-156
 
+:o2: use lists
+
 ## E.Datacenter.2.b - Cost of Data Center 
 
 The Facebook/Fortworth Data center is mainly using Wind energy ( details can be find in .5 section below) and I could find ceratain data from usage of 2018 yearly report from Facebook page and not able to determine all the facts at this point from this center. Also I have reached Facebook/Datacenter through their facebook page and hope they may give some specifics within in couple days.
@@ -35,7 +37,7 @@ Skybox Data center in Houston, TX implemented Solar renewable energy through NRG
  
 
 References:
-Skyboxdatacenters : < https://www.skyboxdatacenters.com/skyblog/skybox-datacenters-push-energy-efficiency-with-houston-first >
+Skyboxdatacenters : <https://www.skyboxdatacenters.com/skyblog/skybox-datacenters-push-energy-efficiency-with-houston-first >
 Cloudcomputing book by Gregor Von Lazewaski: <https://cloudmesh-community.github.io/book/vonLaszewski-cloud.pdf>
 Wiki : <https://en.wikipedia.org/wiki/Solar_energy>
 
