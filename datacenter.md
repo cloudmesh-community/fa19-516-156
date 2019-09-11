@@ -38,6 +38,7 @@ Skybox Data center in Houston, TX implemented Solar renewable energy through NRG
 
 ### References:
 Skyboxdatacenters : <https://www.skyboxdatacenters.com/skyblog/skybox-datacenters-push-energy-efficiency-with-houston-first>
+
 Cloudcomputing book by Gregor Von Lazewaski: <https://cloudmesh-community.github.io/book/vonLaszewski-cloud.pdf>
 Wiki : <https://en.wikipedia.org/wiki/Solar_energy>
 
