@@ -5,7 +5,7 @@
 ## E.Datacenter.2.b - Cost of Data Center 
 
 The Facebook/Fortworth Data center is mainly using Wind energy ( details can be find in .5 section below) and I could find ceratain data from usage of 2018 yearly report from Facebook page and not able to determine all the facts at this point from this center. Also I have reached Facebook/Datacenter through their facebook page and hope they may give some specifics within in couple days.
-Here is my finding so far from Facebook sustainibility report, Ref sustainibility.fb.com / DOWNLOAD OUR ENERGY, GHG, AND WATER DATA 
+Here is my finding so far from Facebook sustainibility report, Ref sustainibility web page / DOWNLOAD OUR ENERGY, GHG, AND WATER DATA 
 
 
 Facebook Datacenter, Fort worth, TX .
@@ -20,7 +20,7 @@ CO2 equivalent in cars: 212 cars
 212 cars = (1000 tons/yr) / (4.71 metric tons CO2E/vehicle /year) 
 PUE                            : 1.11 ( avaerage )
 
-Surprisingly this Data center Power usage Effectivieness is very efficient, Ref 42u.com
+Surprisingly this Data center Power usage Effectivieness is very efficient, Ref 42u webpage
 
 ### Reference : 
 <https://www.42u.com/measurement/pue-dcie.htm>
@@ -47,7 +47,7 @@ In August 15th Facebook announced it operating 100% wind energy in Fort worth Da
 
 In Spetember 3rd 2019 Facebook released news to media about 200MW Wind energy deal with Apex for operating renewable energy in Fortworth Coke county location and to achive 100% in 2020. "Facebook Signs 200MW Wind Deal With Apex Clean Energy in Texas" Greentechmedia,P1.
 
-The study from RTI.org finds Facebook's four operational domestic data centers, including Fort Worth Data Center RTI.org,P1 "Facebook data centers have contributed a cumulative $5.8 billion in gross domestic product (GDP) to the U.S.economy from 2010-2016, or $835 million per year" also "RTI estimates that, from 2011-2016, Facebook avoided over 2.5 million MWh of
+The study from RTI.org webpage finds Facebook's four operational domestic data centers, including Fort Worth Data Center RTI.org,P1 "Facebook data centers have contributed a cumulative $5.8 billion in gross domestic product (GDP) to the U.S.economy from 2010-2016, or $835 million per year" also "RTI estimates that, from 2011-2016, Facebook avoided over 2.5 million MWh of
 carbon-intensive electricity consumption through energy efficiency and renewable energy investments. This resulted in CO2 emissions reductions of over 1.2 million metric tons." 
 
 Also cosidering community contribution as from Facebook data center hom page "Facebook is committed to investing in the long-term vitality of Fort Worth and its residents by supporting groups that meet the community needs. In that spirit, Facebook's Fort Worth Data Center will be awarding competitive grants for projects and/or organizations based in the City of Fort Worth or within 10 miles of the data center. " Ref, Facebook/notes
@@ -70,16 +70,16 @@ RTI study :
 
 Delta Data Center Outage
 
-I have did my research on internet and compared couple Data center outages, found Delta airline Data center outage is significant because it made direct impact on daily users life as people lost their flight connections and other plans about work and trips are getting delayed. In this Data Center outage more than 1000 flights got cancelled and as per study by the Ponemon Institute the "average cost of a single data center outage today is about $730,000" in 2016 .Ref, Datacenterknowledge.com
+I have did my research on internet and compared couple Data center outages, found Delta airline Data center outage is significant because it made direct impact on daily users life as people lost their flight connections and other plans about work and trips are getting delayed. In this Data Center outage more than 1000 flights got cancelled and as per study by the Ponemon Institute the "average cost of a single data center outage today is about $730,000" in 2016 .Ref, Datacenterknowledge web page
 
 "The Delta Airlines data center outage that grounded about 2,000 flights over the span of three days in August cost the company $150 million, the airline’s representatives told the audience of a transportation industry conference in Boston Wednesday.
-The number is extraordinarily high, illustrating that major airlines have a lot more at stake when designing and managing critical infrastructure than most other data center operators." Ref, Datacenterknowledge
+The number is extraordinarily high, illustrating that major airlines have a lot more at stake when designing and managing critical infrastructure than most other data center operators." Ref, Datacenterknowledge webpage
 
 Another details reported provide by five9sdigital as
 "Delta Air Lines says the total bill for its devastating computer outage will come to $150 million.
 The problem occurred when the company lost power at its data center in Atlanta early on the morning of Aug. 8, causing computers needed to book in passengers and fly jets to be down for nearly five hours.
 The airline eventually canceled about 1,000 flights on the day of the outage and ground an additional 1,000 flights over the following two days. It also agreed to give affected customers refunds and vouchers for future travel.
-The cost of the outage was disclosed in a presentation Delta made to investors Wednesday. The losses came out of pre-tax profits, but the airline did not provide a break down of the various costs." Ref five9sdigital.com
+The cost of the outage was disclosed in a presentation Delta made to investors Wednesday. The losses came out of pre-tax profits, but the airline did not provide a break down of the various costs." Ref five9sdigital web page
 
 
 ### References: 
