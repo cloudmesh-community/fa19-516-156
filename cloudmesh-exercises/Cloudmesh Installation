@@ -1,1 +1,10 @@
 # Cloudmesh Installation steps followed.
+
+## I have followed below steps for Cloudmesh installer
+python -m venv ENV3
+$ mkdir cm
+$ cd cm
+$ pip install cloudmesh-installer
+$ cloudmesh-installer bundles
+$ cloudmesh-installer git clone cms
+$ cloudmesh-installer install cms -e
