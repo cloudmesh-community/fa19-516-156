@@ -4,7 +4,7 @@
 from cloudmesh.common.StopWatch import StopWatch
 from time import sleep
 StopWatch.start("test")
-sleep(5)
+sleep(2)
 
 from cloudmesh.common.console import Console
 from cloudmesh.common.util import banner, HEADING
@@ -32,6 +32,9 @@ variables['verbose'] = 10
 
 m = dict(key1="value1", key2="value2", key3="value3")
 VERBOSE(m)
+
+## one more timer sleep
+sleep(1)
 
 StopWatch.stop("test")
 print (StopWatch.get("test"))
